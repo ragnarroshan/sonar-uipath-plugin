@@ -51,7 +51,9 @@ Run the workflow and verify that the data has been extracted correctly and saved
 
 ## UiPath WorkFlow:
 ![Screenshot 2024-11-13 175729](https://github.com/user-attachments/assets/ff5027a3-9de7-48f1-8059-56ea22a8703b)
+
 ![Screenshot 2024-11-13 175750](https://github.com/user-attachments/assets/f3152081-a2f4-499c-b97d-6d7581932d0f)
+
 ![Screenshot 2024-11-13 175820](https://github.com/user-attachments/assets/02c149f2-0ffb-4f2c-ba7c-d34ee809eca9)
 
 
